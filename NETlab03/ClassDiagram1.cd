@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="NETlab03.Kangaroo" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAQAAAAAAAAAAAAAAEAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Kangaroo.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.217" Collapsed="true" />
+  </Class>
+  <Class Name="NETlab03.Koala" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAQAAAAAAAAAAAAAAEAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Koala.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="NETlab03.Lion" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAQAAAAAAAAAAAAAAEAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Lion.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="NETlab03.Monkey" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAQAAAAAAAAAAAAAAEAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Monkey.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="NETlab03.Food" Collapsed="true">
+    <Position X="9.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAggAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Food.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NETlab03.AddMonkey" Collapsed="true">
+    <Position X="5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAQAAAAAAAAAAAAAAEAAAAAEAAA=</HashCode>
+      <FileName>AddMonkey.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NETlab03.AddLion" Collapsed="true">
+    <Position X="7.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAQAAAAAAAAAAAAAAEAAAAAEAAA=</HashCode>
+      <FileName>AddLion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NETlab03.AddKoala" Collapsed="true">
+    <Position X="2.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAQAAAAAAAAAAAAAAEAAAAAEAAA=</HashCode>
+      <FileName>AddKoala.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NETlab03.AddKangaroo" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAQAAAAAAAAAAAAAAEAAAAAEAAA=</HashCode>
+      <FileName>AddKangaroo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NETlab03.AddAnimal" Collapsed="true">
+    <Position X="3.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAEAAAAAAAAAAAAAQAAAAAAAAAAAAAAEAAAAAEAAA=</HashCode>
+      <FileName>AddAnimal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NETlab03.Program" Collapsed="true">
+    <Position X="9.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAABAAAAAAAAgAIAAQAAAAABAACABA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="NETlab03.IAnimal" Collapsed="true">
+    <Position X="3.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAQAAAAAAAAAAAAAAEAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>IAnimal.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
